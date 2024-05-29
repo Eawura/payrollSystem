@@ -18,7 +18,7 @@ int main() {
     double grossPay;
 
     // Get input from the user
-    cout << "Enter your name: ";
+    cout << "Enter your Details: ";
     getline(cin, name);
     cout << "Enter your gender (M/F): ";
     cin >> gender;
